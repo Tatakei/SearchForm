@@ -1,0 +1,16 @@
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\bin\Debug\net8.0-windows\SearchForm.exe
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\bin\Debug\net8.0-windows\SearchForm.deps.json
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\bin\Debug\net8.0-windows\SearchForm.runtimeconfig.json
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\bin\Debug\net8.0-windows\SearchForm.dll
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\bin\Debug\net8.0-windows\SearchForm.pdb
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.Form1.resources
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.csproj.GenerateResource.cache
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.AssemblyInfoInputs.cache
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.AssemblyInfo.cs
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.dll
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\refint\SearchForm.dll
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.pdb
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.genruntimeconfig.cache
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\ref\SearchForm.dll
