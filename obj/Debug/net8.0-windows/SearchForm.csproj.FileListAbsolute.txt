@@ -14,3 +14,4 @@ C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\refi
 C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.pdb
 C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.genruntimeconfig.cache
 C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\ref\SearchForm.dll
+C:\Users\Sascha\source\repos\SearchForm\SearchForm\obj\Debug\net8.0-windows\SearchForm.sourcelink.json
